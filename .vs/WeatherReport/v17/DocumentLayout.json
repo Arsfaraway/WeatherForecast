@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|c:\\users\\hasee\\source\\repos\\weatherforecast\\weatherreport\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|solutionrelative:weatherreport\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|c:\\users\\hasee\\source\\repos\\weatherforecast\\weatherreport\\models\\forecastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|solutionrelative:weatherreport\\models\\forecastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|c:\\users\\hasee\\source\\repos\\weatherforecast\\weatherreport\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|solutionrelative:weatherreport\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|c:\\users\\hasee\\source\\repos\\weatherforecast\\weatherreport\\weatherreport.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|solutionrelative:weatherreport\\weatherreport.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|c:\\users\\hasee\\source\\repos\\weatherforecast\\weatherreport\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|solutionrelative:weatherreport\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|c:\\users\\hasee\\source\\repos\\weatherforecast\\weatherreport\\weatherreport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|solutionrelative:weatherreport\\weatherreport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|c:\\users\\hasee\\source\\repos\\weatherforecast\\weatherreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B2A129-1B2E-4C60-9FD6-4D2093A81EFB}|WeatherReport\\WeatherReport.csproj|solutionrelative:weatherreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasee\\source\\repos\\WeatherReport\\WeatherReport\\Models\\Information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasee\\source\\repos\\WeatherReport\\WeatherReport\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\DTO\\InformationDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherReport\\DTO\\InformationDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForecastResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Models\\ForecastResponse.cs",
+              "RelativeDocumentMoniker": "WeatherReport\\Models\\ForecastResponse.cs",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Models\\ForecastResponse.cs",
+              "RelativeToolTip": "WeatherReport\\Models\\ForecastResponse.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:51:26.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherReport",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\WeatherReport.csproj",
+              "RelativeDocumentMoniker": "WeatherReport\\WeatherReport.csproj",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\WeatherReport.csproj",
+              "RelativeToolTip": "WeatherReport\\WeatherReport.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T16:19:31.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InformationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\DTO\\InformationDTO.cs",
+              "RelativeDocumentMoniker": "WeatherReport\\DTO\\InformationDTO.cs",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\DTO\\InformationDTO.cs",
+              "RelativeToolTip": "WeatherReport\\DTO\\InformationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:43:21.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherReport\\WeatherReport\\Models\\Information.cs",
+              "RelativeDocumentMoniker": "..\\WeatherReport\\WeatherReport\\Models\\Information.cs",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherReport\\WeatherReport\\Models\\Information.cs",
+              "RelativeToolTip": "..\\WeatherReport\\WeatherReport\\Models\\Information.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:13:57.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherReport.csproj",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\WeatherReport.csproj",
+              "RelativeDocumentMoniker": "WeatherReport\\WeatherReport.csproj",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\WeatherReport.csproj",
+              "RelativeToolTip": "WeatherReport\\WeatherReport.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T11:11:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherReport\\WeatherReport\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\WeatherReport\\WeatherReport\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherReport\\WeatherReport\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\WeatherReport\\WeatherReport\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:48:33.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Dockerfile",
+              "RelativeDocumentMoniker": "WeatherReport\\Dockerfile",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Dockerfile",
+              "RelativeToolTip": "WeatherReport\\Dockerfile",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-29T15:17:06.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\MiddleWares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WeatherReport\\MiddleWares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\MiddleWares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "WeatherReport\\MiddleWares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:51:23.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherReport\\Program.cs",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Program.cs",
+              "RelativeToolTip": "WeatherReport\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:48:24.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WeatherReport\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hasee\\source\\repos\\WeatherForecast\\WeatherReport\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WeatherReport\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:48:02.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHgUAAAAAAAAAAAlwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-28T06:09:04.369Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
